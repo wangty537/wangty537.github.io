@@ -1,7 +1,7 @@
 # Site settings
-title: SPARROW Blog
-SEOTitle: 麻雀的博客 | SPARROW Blog
-header-img: img/post-bg-desk.jpg
+title: Sparrow Blog
+SEOTitle: 麻雀的博客 | Sparrow Blog
+header-img: img/post-bg-keyboard.jpg
 email: wangty537@gmail.com
 description: "Every failure is leading towards success."
 keyword: "colorful blog"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/wangty537/wangty537.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/a.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
