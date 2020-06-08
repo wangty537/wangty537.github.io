@@ -15,6 +15,8 @@ sidebar-about-description: "boring !"
 sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
+# MathJax rendering for layout:page (e.g. post preview)
+page-mathjax: true
 
 # SNS settings
 RSS: false
