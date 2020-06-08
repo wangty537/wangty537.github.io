@@ -12,7 +12,7 @@ github_repo: "https://github.com/wangty537/wangty537.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "boring !"
-sidebar-avatar: /img/about-Sparrow-dd.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
