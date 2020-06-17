@@ -15,6 +15,11 @@ sidebar-about-description: "boring !"
 sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
+# Math Equations Render Support
+math:
+  enable: true
+  per_page: true
+  engine: mathjax
 
 # SNS settings
 RSS: false
